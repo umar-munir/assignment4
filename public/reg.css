@@ -1,0 +1,99 @@
+#p{
+    background-color: red;
+}
+a:hover {
+    background-color: gray;
+    color: red;
+}
+body{
+    background-color: gray;
+}
+#submit{
+    background-color: red;
+}
+.margin{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#table{
+  background-color: red;  
+  width: 100%;
+}
+.hader {
+  font-size: 50px; 
+}
+.ab {
+    
+    text-decoration: none;
+    color: white;
+}
+td {
+    color: white;
+}
+b {
+    font-size: 30px;
+}
+.cls{
+    margin-left: 80px;
+    margin-right: 600px;
+    font-size: 25px;
+}
+.sub {
+    color: white;
+    background-color: blue;
+    font-size: 30px;
+    border: hidden;
+    border-radius: 3px;
+    
+    text-align: center;
+    padding: 2px;
+}
+.Buttom
+    {
+    float: left;
+    background-color:red;
+    height: 300px;
+    width: 100%; 
+    }
+.downleft
+    {
+    float: left;
+    padding-left: 10%;
+    width: 250px;
+    text-align: left;
+    color: white;
+    }
+.downcenter
+    {
+    float: left; 
+    width: 250px;
+    padding-left: 10%;
+    color: white;
+    }
+.downright
+    {
+    float: left;
+    width: 250px;
+    padding-left: 10%;
+    color: rgb(17, 9, 9);
+    color: white;
+    }
+.below
+    {
+    text-align: center;
+    color: blue;
+    }
+.F, .G, .K{
+    font-size: "50px";
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.Button1{
+    
+    height: 8%;
+    width: 60px;
+}
+.link{
+    color: white;
+}
